@@ -24,8 +24,7 @@
 
 [Screencast from 03-08-22 04:34:23 PM IST.webm](https://user-images.githubusercontent.com/76171953/182593428-c6d3353d-dd1b-4316-95de-5945e498c55a.webm)
 
-## <p align="center">Creators</p>
-![Blue And Yellow Minimalist Urban Fashion Style Twitter Post](https://user-images.githubusercontent.com/76171953/182592220-63efbc6c-de49-4eb0-a466-8052c7bcd4c0.png)
+
 
 ## <p align ="center">Live Deployement</p>
 <p align="center">
