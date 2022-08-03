@@ -29,7 +29,7 @@
 
 ## <p align ="center">Live Deployement</p>
 <p align="center">
-https://anmolchoudhary3.github.io/knapsack-visualizer/
+
 <br>
 Star ⭐ this Repo. If you like the work.
 </p>
