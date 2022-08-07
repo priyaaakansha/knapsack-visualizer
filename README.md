@@ -28,6 +28,7 @@
 
 ## <p align ="center">Live Deployement</p>
 <p align="center">
+<p>https://priyaaakansha.github.io/knapsack-visualizer/<p>
 
 <br>
 Star ⭐ this Repo. If you like the work.
